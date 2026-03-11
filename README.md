@@ -22,3 +22,5 @@ By inputting a research topic, the system can automatically complete the process
 **Agent Layer**: Each agent takes turns completing its task.
 
 **Tools Layer**:The auxiliary modules include Groq large language model, Tavily web search and arXiv paper retrieval.
+
+**Record Layer**: ResearchState class and Markdown generation
