@@ -26,11 +26,12 @@ By inputting a research topic, the system can automatically complete the process
 **Record Layer**: ResearchState class and Markdown generation
 
 ## How to run the code
-1. Register to get API key:
+1. Download the files in this page
+2. Register to get API key:
    - Groq API Key：https://console.groq.com/
    - Tavily API Key：https://tavily.com/
-2. Put the API key into the environment file
-3. Install all necessary dependency packages
+3. Put the API key into the environment file
+4. Install all necessary dependency packages
    
    - pip install langgraph langchain-core langchain-groq tavily-python arxiv python-dotenv tkinter
 
