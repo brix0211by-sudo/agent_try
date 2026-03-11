@@ -24,3 +24,12 @@ By inputting a research topic, the system can automatically complete the process
 **Tools Layer**:The auxiliary modules include Groq large language model, Tavily web search and arXiv paper retrieval.
 
 **Record Layer**: ResearchState class and Markdown generation
+
+## How to run the code
+1. Register to get API key:
+   - Groq API Key：https://console.groq.com/
+   - Tavily API Key：https://tavily.com/
+2. Put the API key into the environment file
+3. Install all necessary dependency packages
+   pip install langgraph langchain-core langchain-groq tavily-python arxiv python-dotenv tkinter
+5. Run the code in
