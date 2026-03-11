@@ -15,4 +15,6 @@ By inputting a research topic, the system can automatically complete the process
 **Human Review**: provides visual interface for human validation of draft reports
 
 ## System layer
-**Interactive layer**: 
+**Interactive layer**: Users input research topics and visualize the review window via the terminal.
+
+**Agent Layer**
