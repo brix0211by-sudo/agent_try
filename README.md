@@ -32,7 +32,7 @@ By inputting a research topic, the system can automatically complete the process
 3. Download the files in this page
 4. Put the API key into the environment file
 5. Install all necessary dependency packages
-   - pip install langgraph langchain-core langchain-groq tavily-python arxiv python-dotenv tkinter
+- pip install langgraph langchain-core langchain-groq tavily-python arxiv python-dotenv tkinter
 6. Run the code
 7. Input the research topic (e.g. "Applications of LLMs in Healthcare Diagnosis") and press Enter
 8. Wait a few minutes for the system to complete keyword extraction, multi-source retrieval, and draft report generation
