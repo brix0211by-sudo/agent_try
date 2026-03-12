@@ -30,11 +30,12 @@ By inputting a research topic, the system can automatically complete the process
    - Tavily API Key：https://tavily.com/
 2. Python 3.9 or higher required
 3. Download the files in this page
-4. 
-5. Put the API key into the environment file
-6. Install all necessary dependency packages
-7. Run the code in the terminal and input the research topic into the terminal
-8. It will take a few minutes for the system to run
-9. When the monitor window pops up, it sometimes doesn't cover the current window; you need to look through all open windows to find it.
+4. Put the API key into the environment file
+5. Install all necessary dependency packages
+   - pip install langgraph langchain-core langchain-groq tavily-python arxiv python-dotenv tkinter
+6. Run the code
+7. Input the research topic (e.g. "Applications of LLMs in Healthcare Diagnosis") and press Enter
+8. Wait a few minutes for the system to complete keyword extraction, multi-source retrieval, and draft report generation
+9. When the monitor window pops up, it sometimes doesn't cover the current window; you need to look through all open windows to find it
 10. Choose whether to accept the current assembly version. If not, the process will return to the coordinator and all operations will be repeated. If accepted, a Markdown document will be generated
    
