@@ -25,14 +25,16 @@ By inputting a research topic, the system can automatically complete the process
 **Record Layer**: ResearchState class and Markdown generation
 
 ## How to run the code
-1. Download the files in this page
-2. Register to get API key:
+1.Register to get API key:
    - Groq API Key：https://console.groq.com/
    - Tavily API Key：https://tavily.com/
-3. Put the API key into the environment file
-4. Install all necessary dependency packages
-6. Run the code in the terminal and input the research topic into the terminal
-7. It will take a few minutes for the system to run
-8. When the monitor window pops up, it sometimes doesn't cover the current window; you need to look through all open windows to find it.
-9. Choose whether to accept the current assembly version. If not, the process will return to the coordinator and all operations will be repeated. If accepted, a Markdown document will be generated
+2. Python 3.9 or higher required
+3. Download the files in this page
+4. 
+5. Put the API key into the environment file
+6. Install all necessary dependency packages
+7. Run the code in the terminal and input the research topic into the terminal
+8. It will take a few minutes for the system to run
+9. When the monitor window pops up, it sometimes doesn't cover the current window; you need to look through all open windows to find it.
+10. Choose whether to accept the current assembly version. If not, the process will return to the coordinator and all operations will be repeated. If accepted, a Markdown document will be generated
    
